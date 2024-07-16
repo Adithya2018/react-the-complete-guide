@@ -1,0 +1,9 @@
+{
+    "compilerOptions": {
+        "outDir": "./compiled_outputs"
+    },
+
+    "files": [
+        "basics.ts"
+    ]
+}
